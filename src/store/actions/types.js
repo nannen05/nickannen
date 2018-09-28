@@ -1,0 +1,1 @@
+export const FETCH_HEADER = 'FETCH_HEADER'
